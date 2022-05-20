@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johan</h1>
+<h1 align="center">Hi 👋, I'm Johan Gonzalez</h1>
 <h3 align="center">A passionate full-stack developer from Mexico</h3>
 
 - 🔭 I’m currently working on [A mobile app for RE/MAX](https://www.figma.com/file/xn2R9K9lu5Rc065qq3s9S0/ReMax-App?node-id=0%3A1)
