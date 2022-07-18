@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Blockchain technologies.**
 
-- 💬 Ask me about **React, Expressjs, Mongodb**
+- 💬 Ask me about **React, Expressjs, Mongodb, Docker**
 
 - 📫 How to reach me **jopi20101@gmail.com**
 
