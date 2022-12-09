@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johangonzalez0512&label=Profile%20views&color=0e75b6&style=flat" alt="johangonzalez0512" /> </p>
 
 
-- 🔭 I’m currently working on **on studying new frontend frameworks**
+- 🔭 I’m currently working **on studying new frontend frameworks**
 
 - 🌱 I’m currently learning **GraphQL and Angular**
 
