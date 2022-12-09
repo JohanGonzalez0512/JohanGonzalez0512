@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **GraphQL and Angular**
 
-- 💬 Ask me about **React, NestJs, Docker, Express**
+- 💬 Ask me about **React, NestJs, Docker**
 
 - 📫 How to reach me **gonzalez.vargas.johan@outlook.com**
 
