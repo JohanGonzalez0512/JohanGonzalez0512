@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working **on studying new frontend frameworks**
 
-- 🌱 I’m currently learning **GraphQL and Angular**
+- 🌱 I’m currently learning **Angular and Nextjs**
 
-- 💬 Ask me about **React, NestJs, Docker**
+- 💬 Ask me about **React, NestJs, Docker, GraphQL**
 
 - 📫 How to reach me **gonzalez.vargas.johan@outlook.com**
 
